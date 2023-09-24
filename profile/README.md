@@ -1,4 +1,4 @@
-![](media/banner.jpg)
+![](profile/media/banner.jpg)
 
 A collection of CLI tools to make your live as a terminal enthusiast easier with the focus on simplicity, intuitivity and performance. Each tool is designed to do exactly the single thing it is designed to do and nothing more.
 
